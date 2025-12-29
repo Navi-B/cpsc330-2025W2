@@ -12,9 +12,10 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 
 | Section   | Instructor                        | Contact                        | When                        | Where                                                  |
 |-----------|-----------------------------------|--------------------------------|-----------------------------|--------------------------------------------------------|
-| 101       | [Giulia Toti](https://www.gtoti.com/) | [gtoti@cs.ubc.ca](mailto:gtoti@cs.ubc.ca)              | Tue & Thu, 15:30–16:50      | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/)                                                    |
-| 102       | [Varada Kolhatkar](https://kvarada.github.io/) | [kvarada@cs.ubc.ca](mailto:kvarada@cs.ubc.ca)             | Tue & Thu, 11:00–12:20      | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
-| 103       | [Giulia Toti](https://www.gtoti.com/)        | [gtoti@cs.ubc.ca](mailto:gtoti@cs.ubc.ca)                 | Tue & Thu, 17:00–18:20      | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/)                                                    |
+| 201       | [Giulia Toti](https://www.gtoti.com/) | [gtoti@cs.ubc.ca](mailto:gtoti@cs.ubc.ca)     | Tue & Thu, 9:30–10:50      | [MCML 360](https://learningspaces.ubc.ca/classrooms/mcml-360/)  |
+| 202      |  |          | Tue & Thu, 15:30–16:50      | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
+| 203       |       |                  | Tue & Thu, 17:00–18:20      |   [IRC 4](https://learningspaces.ubc.ca/classrooms/irc-4/)      |
+| 204       |       |                  | Tue & Thu, 11:00–12:20      |  [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/)   |
 
 
 ### Course co-ordinator
