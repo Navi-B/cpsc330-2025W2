@@ -18,28 +18,28 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 **Lectures**:
 
-| Section      | Day     | Time                | Zoom                  |
-|--------------|---------|---------------------|-----------------------|
-| CPSC 330 201 | Tue/Thu | 9:30 - 10:50        | MCML 360 |
-| CPSC 330 202 | Tue/Thu | 15:30 - 16:50       | DMP 310 |
-| CPSC 330 203 | Tue/Thu | 17:00 - 18:20       | IRC 4   |
-| CPSC 330 203 | Tue/Thu | 11:00 - 12:20       | DMP 310 |
+| Section      | Day     | Time          | Zoom     |
+|--------------|---------|---------------|----------|
+| CPSC 330 201 | Tue/Thu | 9:30 - 10:50  | MCML 360 |
+| CPSC 330 202 | Tue/Thu | 15:30 - 16:50 | DMP 310  |
+| CPSC 330 203 | Tue/Thu | 17:00 - 18:20 | IRC 4    |
+| CPSC 330 203 | Tue/Thu | 11:00 - 12:20 | DMP 310  |
 
 **Tutorials**:
 
-| Section      | Day      | Time                | Location               |
-|--------------|----------|---------------------|------------------------|
-| CPSC 330 T1A | Fri      | 09:00 - 10:00       | MCLD 3008              |
-| CPSC 330 T1B | Fri      | 11:00 - 12:00       | MCML 158               |
-| CPSC 330 T1C | Fri      | 14:00 - 15:00       | FSC 1003               |
-| CPSC 330 T1D | Fri      | 15:00 - 16:00       | FSC 1003               |
-| CPSC 330 T1E | Thu      | 17:00 - 18:00       | FSC 1611               | 
-| CPSC 330 T1F | Thu      | 13:00 - 14:00       | CEME 1215              |
-| CPSC 330 T1G | Thu      | 14:00 - 15:00       | FORW 317               |
-| CPSC 330 T1H | Thu      | 10:00 - 11:00       | CEME 1215              |
-| CPSC 330 T1J | Fri      | 10:00 - 11:00       | MCLD 3008              |
-| CPSC 330 T1K | Fri      | 11:00 - 12:00       | MCLD 3008              |
-| CPSC 330 T1L | Thu      | 09:00 - 10:00       | CEME 1215              |
+| Section      | Day | Time          | Location  |
+|--------------|-----|---------------|-----------|
+| CPSC 330 T1A | Fri | 09:00 - 10:00 | MCLD 3008 |
+| CPSC 330 T1B | Fri | 11:00 - 12:00 | MCML 158  |
+| CPSC 330 T1C | Fri | 14:00 - 15:00 | FSC 1003  |
+| CPSC 330 T1D | Fri | 15:00 - 16:00 | FSC 1003  |
+| CPSC 330 T1E | Thu | 17:00 - 18:00 | FSC 1611  |
+| CPSC 330 T1F | Thu | 13:00 - 14:00 | CEME 1215 |
+| CPSC 330 T1G | Thu | 14:00 - 15:00 | FORW 317  |
+| CPSC 330 T1H | Thu | 10:00 - 11:00 | CEME 1215 |
+| CPSC 330 T1J | Fri | 10:00 - 11:00 | MCLD 3008 |
+| CPSC 330 T1K | Fri | 11:00 - 12:00 | MCLD 3008 |
+| CPSC 330 T1L | Thu | 09:00 - 10:00 | CEME 1215 |
 
 **Tutorials**
 
@@ -95,8 +95,8 @@ The grading scheme for the course is as follows:
 
 | Component              | Weight | Location                                              |
 |------------------------|--------|-------------------------------------------------------|
-| Syllabus quiz          | 1%     | PrairieLearn (through Canvas)        |
-| iClicker participation | 5%     | iClicker Cloud (through Canvas) |
+| Syllabus quiz          | 1%     | [PrairieLearn (through Canvas)](https://us.prairielearn.com/pl/course_instance/202573/assessment/2628896)       |
+| Participation          | 5%     | iClicker Cloud (through Canvas for Sections 201, 203, 204) or Learning Logs (through PrairieLearn for Section 202 only) |
 | Assignments            | 22%    | [Gradescope](https://www.gradescope.ca/courses/29785) |
 | Midterm 1              | 21%    | [CBTF](https://cbtf.ubc.ca/), on PrairieLearn |
 | Midterm 2              | 21%    | [CBTF](https://cbtf.ubc.ca/), on PrairieLearn |
