@@ -51,7 +51,7 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 
 - [Giulia Toti](https://www.gtoti.com/), OH: Thursdays, 11:15 am - 12:30 pm @ ICCS 231
 - Firas Moosvi, OH: 
-- Mehrdad Oveisi, OH: Tuesdays and Thursdays, 18:20, as long as there are conceptual questions @ [IRC 4](https://learningspaces.ubc.ca/classrooms/irc-4/)
+- Mehrdad Oveisi, OH: Tuesdays and Thursdays, 18:20, as long as there are conceptual questions @ [IRC G41](https://learningspaces.ubc.ca/classrooms/irc-g41/)
 
 ### Course coordinator
 - Anca Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Anca for: admin questions, extensions, academic concessions etc. 
