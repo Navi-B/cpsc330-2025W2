@@ -81,7 +81,9 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 
 **Waitlists**:
 
-The general seats available in this class usually fill up very quickly. Once the general seats are taken, the only way to register for the course is to sign up for the waiting list. For questions about the waiting list policies, see [here](https://www.cs.ubc.ca/students/undergrad/courses/waitlists). You should sign up for the waiting list even if it is long; a lot of students tend to drop courses. Signing up for the waiting list also makes it more likely that we will open up extra sessions, expand class sizes, or offer additional courses on these topics. **The instructors have no control over the situation and cannot help you bypass the waiting list.**
+CPSC 330 is a very fast-paced course and students who register in the course late have a tendency to struggle greatly and are rarely able to catch-up. In 2025W2, we are expecting that all students who are registered on any open waitlists by 3 PM on January 9th will have an opportunity to take the course. This also means that **the registration into the course will be closed by the end of the day on January 9th, and no further registrations will be permitted.** Of course, students will still be able to drop the course until UBC's official Add/Drop date. We hope this will allow all students to have the best chance at success in this course!
+
+**The instructors have no control over the wailtist order and cannot help you bypass the waiting list.**
 
 **Prerequisites**: The official prerequisites can be found [here](https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=330&campuscd=UBC&dept=CPSC&pname=subjarea). If you do not meet the prerequisites, see [here](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/prerequisites) and [here](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/rules-about-cpsc-appeals-undergraduate-students). We were told that students should not visit the front desk in the CS main office about prerequisite issues, because the folks at the front desk do not have the authority to resolve prerequisite issues.
 
