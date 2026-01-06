@@ -49,9 +49,9 @@ project:
             - file: docs/python_notes.ipynb
             - file: docs/resources.md
         - file: docs/README.md
-    # - title: Part 1 - Fundamentals
-    #   children:
-    #     - file: lectures/notes/01_intro.ipynb
+    - title: Part 1 - Fundamentals
+      children:
+        - file: lectures/notes/01_intro.ipynb
     #     - file: lectures/notes/02_terminology-decision-trees.ipynb
     #     - file: lectures/notes/03_ml-fundamentals.ipynb
     #     - file: lectures/notes/04_kNNs-SVM-RBF.ipynb
