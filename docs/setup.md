@@ -1,10 +1,10 @@
 # Setting up your coding environment
 
-This guide will help you get ready to run lecture notebooks and complete homework assignments on your own computer.  
+This guide will help you get ready to run lecture notebooks and complete homework assignments on your own computer.
 
-You'll need three main tools:  
-1. **Git:** to download and update course materials from GitHub  
-2. **Python & Conda:** to run code and manage packages  
+You'll need three main tools:
+1. **Git:** to download and update course materials from GitHub
+2. **Python & Conda:** to run code and manage packages
 3. **JupyterLab:** or **VS Code** as your main coding environment
 
 ## Quick start (TL;DR)
@@ -34,6 +34,13 @@ code .
 ```
 
 > ⚠️ Normally, you will launch JupyterLab or VS Code from `(base)` and then select the `cpsc330` environment inside those tools. Activating it in the terminal is only needed for testing or if you want to install additional packages in the environment later on.
+
+## `WSL`: Optional but Recommended Step For Windows
+If you are using Windows, you may want to consider using `WSL` to run Linux inside Windows. For more information, please search for ["Windows Subsystem for Linux" (`WSL`)](https://www.google.com/search?q=windows+subsystem+for+linux). One recommended Linux distribution is Ubuntu (22.04 LTS or higher). Installing `WSL` is easy on Windows 11, which allows [installation from the Microsoft Store](https://www.bleepingcomputer.com/news/microsoft/windows-11-can-now-install-wsl-from-the-microsoft-store). If that does not work for you, here is an alternative installation method covered in [this online tutorial](https://www.groovypost.com/howto/install-windows-subsystem-for-linux-in-windows-11).
+
+NOTE 1: Although the course staff are happy to help if you have any technical difficulties, support cannot be guaranteed for `WSL` or Linux in general. However, if you feel that you can manage it yourself, you are encouraged to do so because the ability to use Linux is certainly a plus. Of course, AI tools should be able to resolve many of the potential issues you may have when using `WSL`.
+
+NOTE 2: If you are using macOS, you can ignore this tip, as macOS is already a Unix-compliant system.
 
 
 ## Step 1: Install Git
