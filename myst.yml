@@ -52,7 +52,7 @@ project:
     - title: Part 1 - Fundamentals
       children:
         - file: lectures/notes/01_intro.ipynb
-    #     - file: lectures/notes/02_terminology-decision-trees.ipynb
+        - file: lectures/notes/02_terminology-decision-trees.ipynb
     #     - file: lectures/notes/03_ml-fundamentals.ipynb
     #     - file: lectures/notes/04_kNNs-SVM-RBF.ipynb
     #     - file: lectures/notes/05_preprocessing-pipelines.ipynb
